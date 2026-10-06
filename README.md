@@ -257,8 +257,6 @@ Options:
 
 The project is designed to use **Amazon Bedrock** for LLM inference.
 
-Each team member should use their **own AWS account and credentials** during development.
-
 Configure AWS locally using:
 
 ```bash
