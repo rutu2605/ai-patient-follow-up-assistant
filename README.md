@@ -149,7 +149,7 @@ careloop/
 
 ```bash
 git clone <REPOSITORY_URL>
-cd careloop
+cd ai-patient-follow-up-assistant
 ```
 
 ### 2. Create a virtual environment
